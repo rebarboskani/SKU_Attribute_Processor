@@ -1,0 +1,10 @@
+# Python specific #
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+*.ipynb_checkpoints/
+*.DS_Store
